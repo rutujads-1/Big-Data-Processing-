@@ -33,7 +33,7 @@ This project involves large-scale data processing and analysis of NYC rideshare 
 ## Project Structure
 
 ```
-big-data-processing/
+Big-Data-Processing-/
 
 ├── notebooks/              # Jupyter notebooks and PySpark scripts
 
